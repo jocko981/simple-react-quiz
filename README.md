@@ -1,3 +1,5 @@
+Simple single page quiz app with questions about React with implementation of useReducer. Also, using simple hardcoded JSON data from data folder for questions in this quiz app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
