@@ -1,4 +1,4 @@
-Simple single page quiz app with questions about React with implementation of useReducer. Also, using simple hardcoded JSON data from data folder for questions in this quiz app.
+Simple single page quiz app with questions about React with implementation of useReducer. Also, for the questions that are used in this quiz, there is a simple hardcoded JSON data in data folder with the questions data.
 
 # Getting Started with Create React App
 
